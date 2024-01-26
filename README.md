@@ -4,3 +4,5 @@
 ## 研一上：2023-2024 学年秋学期
 - 高等量子力学
   - [作业](https://github.com/jyudong/Advanced-Quantum-Mechanics)
+- 群论
+  - [作业](https://github.com/jyudong/Group-Theory)
